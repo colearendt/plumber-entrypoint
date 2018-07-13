@@ -1,0 +1,12 @@
+name: entrypoint-api2
+title: entrypoint-api
+username: cole
+account: cole
+server: rsc.radixu.com
+hostUrl: https://rsc.radixu.com/__api__
+appId: 2648
+bundleId: 4239
+url: https://rsc.radixu.com/content/2648/
+when: 1531525543.83652
+asMultiple: FALSE
+asStatic: FALSE
