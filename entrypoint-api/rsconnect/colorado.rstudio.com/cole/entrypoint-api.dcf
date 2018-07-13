@@ -5,8 +5,8 @@ account: cole
 server: colorado.rstudio.com
 hostUrl: http://colorado.rstudio.com:3939/__api__
 appId: 1288
-bundleId: 11834
+bundleId: 11850
 url: http://colorado.rstudio.com:3939/content/1288/
-when: 1531515342.1563
+when: 1531525446.51314
 asMultiple: FALSE
 asStatic: FALSE

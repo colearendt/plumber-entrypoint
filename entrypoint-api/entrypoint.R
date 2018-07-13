@@ -1,4 +1,7 @@
 library(plumber)
+
+message("Firing entrypoint script!")
+
 pr <- plumb("plumber.R")
 pr$registerHook("exit", function(){
   message("Bye bye!")
